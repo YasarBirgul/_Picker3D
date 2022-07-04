@@ -1,8 +1,6 @@
-
 using System;
-using DefaultNamespace;
+using Enums;
 using UnityEngine;
-using UnityEngine.UI;
 
 namespace Data.ValueObject
 {

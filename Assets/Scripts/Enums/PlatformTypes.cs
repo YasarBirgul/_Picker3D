@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DefaultNamespace
+namespace Enums
 {
     [Serializable]
     public enum PlatformTypes
